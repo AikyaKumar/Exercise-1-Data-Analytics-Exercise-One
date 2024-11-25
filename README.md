@@ -1,2 +1,1 @@
-# Exercise-1-Data-Analytics-Exercise-One
-Statistics and Machine Learning Assignment 1
+# Data Analytics 1: Statistics and Machine Learning
